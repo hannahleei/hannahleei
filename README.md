@@ -1,4 +1,5 @@
 ## hi! 
+## my name is hannah, and i go to brown university. 
 
 <!--
 **hannahleei/hannahleei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
